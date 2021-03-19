@@ -29,3 +29,5 @@ function onMapClick(e) {
 }
 
 mymap.on('click', onMapClick);
+
+//Карты круть
